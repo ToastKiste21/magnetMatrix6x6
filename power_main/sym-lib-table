@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPD4S480RUKR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPD4S480RUKR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS26750SRSMR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS26750SRSMR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPSM365R15RDNR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPSM365R15RDNR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A2450DBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS7A2450DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "CAT24C512WI-GT3")(type "KiCad")(uri "${KIPRJMOD}/lib/CAT24C512WI-GT3.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Linear")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Linear.kicad_sym")(options "")(descr ""))
+  (lib (name "CSD18543Q3A")(type "KiCad")(uri "${KIPRJMOD}/lib/CSD18543Q3A.kicad_sym")(options "")(descr ""))
+  (lib (name "DX07P024AJ5R1500")(type "KiCad")(uri "${KIPRJMOD}/lib/DX07P024AJ5R1500.kicad_sym")(options "")(descr ""))
+  (lib (name "DX07P024AJ1R1500")(type "KiCad")(uri "${KIPRJMOD}/lib/DX07P024AJ1R1500.kicad_sym")(options "")(descr ""))
+)
